@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2e8c089.css",
+    "main.js": "/static/js/main.34ae3767.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/EMICQuoteTemplate.docx": "/static/media/EMICQuoteTemplate.eecfe0b3a644c2feeffa.docx",
+    "static/media/EnvironmentalQuoteTemplate.docx": "/static/media/EnvironmentalQuoteTemplate.b156395e41dc84aa8249.docx",
+    "static/media/ItemSoftQuoteTemplate.docx": "/static/media/ItemSoftQuoteTemplate.2a4d8b6daa47045bf336.docx",
+    "static/media/ReliabilityQuoteTemplate.docx": "/static/media/ReliabilityQuoteTemplate.e32d6f94e6d23bd2cd03.docx",
+    "static/media/backimg.jpg": "/static/media/backimg.148076342cee2dd2e1fc.jpg",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.63311334b795ce3b76e2.ttf",
+    "static/media/JobcardTemplate.docx": "/static/media/JobcardTemplate.e9762a96e1e4be176e90.docx",
+    "static/media/ReliabilityJCTemplate.docx": "/static/media/ReliabilityJCTemplate.5472b2b28402f86cb339.docx",
+    "static/media/BEALogo.jpg": "/static/media/BEALogo.2dfaeeb7040d3b634c64.jpg",
+    "static/media/signin.svg": "/static/media/signin.4558f412297d57b72af16a3ef4091726.svg",
+    "index.html": "/index.html",
+    "main.d2e8c089.css.map": "/static/css/main.d2e8c089.css.map",
+    "main.34ae3767.js.map": "/static/js/main.34ae3767.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e8c089.css",
+    "static/js/main.34ae3767.js"
+  ]
+}
