@@ -8,15 +8,16 @@ const db = mysql.createPool({
   password: process.env.DB_PASSWORD,
   database: process.env.DB_DATABASE,
 
-  // host: "localhost",
-  // user: "root",
-  // password: "Labbee@2024",
-  // database: "labbee"
-
-  //host : "92.205.7.122",
-  //user : "beaLab",
-  //password : "FIycjLM5BTF;",
-  //database : "i7627920_labbee"
 });
 
 module.exports = { db };
+
+// host: "localhost",
+// user: "root",
+// password: "Labbee@2024",
+// database: "labbee"
+
+//host : "92.205.7.122",
+//user : "beaLab",
+//password : "FIycjLM5BTF;",
+//database : "i7627920_labbee"

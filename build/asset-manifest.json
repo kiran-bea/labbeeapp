@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2e8c089.css",
-    "main.js": "/static/js/main.c487ec7c.js",
+    "main.js": "/static/js/main.d248caaf.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/EMICQuoteTemplate.docx": "/static/media/EMICQuoteTemplate.eecfe0b3a644c2feeffa.docx",
     "static/media/EnvironmentalQuoteTemplate.docx": "/static/media/EnvironmentalQuoteTemplate.b156395e41dc84aa8249.docx",
@@ -15,11 +15,11 @@
     "static/media/signin.svg": "/static/media/signin.4558f412297d57b72af16a3ef4091726.svg",
     "index.html": "/index.html",
     "main.d2e8c089.css.map": "/static/css/main.d2e8c089.css.map",
-    "main.c487ec7c.js.map": "/static/js/main.c487ec7c.js.map",
+    "main.d248caaf.js.map": "/static/js/main.d248caaf.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2e8c089.css",
-    "static/js/main.c487ec7c.js"
+    "static/js/main.d248caaf.js"
   ]
 }

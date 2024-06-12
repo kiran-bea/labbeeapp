@@ -18,7 +18,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: true, // mention the host address of the frontend
+    origin: ['http://194.238.16.142:3000'], // mention the host address of the frontend
     methods: ["POST", "GET", "DELETE"],
     credentials: true,
   })
